@@ -1,0 +1,12 @@
+# Python
+__pycache__/
+*.pyc
+
+# Venv
+.venv/
+
+# IDE
+.idea/
+
+# Артефакты
+replay*.json
